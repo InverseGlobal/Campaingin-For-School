@@ -67,3 +67,22 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.main-topic {
+    border: 2px solid black;
+    width: 1541px;
+    margin: 0 auto;
+    clear: both;
+  display: flex;
+  
+}
+
+.left-text{
+    vertical-align:middle;
+}
+.right-picture > img{
+    display: block;
+}
+
+.clear{
+    clear: both;
+}
